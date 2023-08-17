@@ -27,18 +27,18 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
-<div id="container"></div>
-<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-<script>
-var gitment = new Gitment({
-  id: '', // 可选。默认为 location.href
-  owner: 'icydgx',
-  repo: 'icydgx.github.io',
-  oauth: {
-    client_id: 'a60e2393264732c24cb6',
-    client_secret: 'a87f3e076c1d32ca8ae91a563a8ff19d13e5ada3',
-  },
-})
-gitment.render('container')
+<script src="https://giscus.app/client.js"
+        data-repo="icydgx/icydgx.github.io"
+        data-repo-id="R_kgDOKIERUQ"
+        data-category="General"
+        data-category-id="DIC_kwDOKIERUc4CYqL9"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
 </script>
