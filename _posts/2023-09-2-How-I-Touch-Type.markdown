@@ -45,12 +45,14 @@ Type `~!@#$%^&\*()-_=+ Backspace or numbers little not too much.
 Why doing this? Because you not move your hands when type.
 
 But if you want to type the () same time. I like just RM for ( and RR for ). I think it's easy to type.
-If you like type numbers faster you can try this. You can set 1 as home key for LP and 0 as home key for RM (the - for home key for RR). If 1 or 0 start of numbers for each hands.
-Type the two nums
--   Type the 10 use LR and RM
--   Type the 12 use LR and LM 
--   Type the 07 use RM and RI 
--   Type the 52 0 use LI LR RM
+If you like type numbers faster you can try this. Only for connect numbers. If fisrt number is 2345 or 7890 and next number or previous number, then use LM or RM and next finger or previous fingr. Also like the 1 use the LR finger.
+
+-   Type the 10 use LR RM
+-   Type the 12 use LR LM
+-   Type the 21 use LM LR
+-   Type the 54 use LM LR
+-   Type the 90 use RM RR
+-   Type the 89 use RM RR
 -   Type the 12 0 use LR LM RM
 
 
