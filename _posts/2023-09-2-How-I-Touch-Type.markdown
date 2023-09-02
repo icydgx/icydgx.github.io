@@ -37,10 +37,10 @@ If you numbers is too many like telephone numbers. I advice to you use the 9 num
 
 Type `~!@#$%^&\*()-_=+ Backspace or numbers little not too much.
 
--   LR for !1
--   LM for ~`@\#$%^ 23456
+-   LR for !~`1
+-   LM for @\#$%^ 23456
 -   RM for &\*() 7890
--   RR for -_=+ Backspace
+-   RR for -_=+Backspace
 
 Why doing this? Because you not move your hands when type.
 
