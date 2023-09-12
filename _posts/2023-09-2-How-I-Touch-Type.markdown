@@ -38,21 +38,14 @@ If you numbers is too many like telephone numbers. I advice to you use the 9 num
 Type `~!@#$%^&\*()-_=+ Backspace or numbers little not too much.
 
 -   LR for !~`@12
--   LM for \#$%^ 3456
--   RM for &\*( 789
+-   LM for #3
+-   LI for $%^456
+-   RI for &*78
+-   RM for ( 9
 -   RR for )0-_=+Backspace
 
 Why doing this? Because you not move your hands when type.
 
-If you like type numbers faster you can try this. Only for connect numbers. If fisrt number is 2345 or 7890 and next number or previous number, then use LM or RM and next finger or previous fingr. Also like the 1 use the LR finger.
-
--   Type the 10 use LR RR
--   Type the 12 use LR LM
--   Type the 21 use LM LR
--   Type the 54 use LM LR
--   Type the 90 use RM RR
--   Type the 89 use RM RR
--   Type the 12 0 use LR LM RR
 
 
 
