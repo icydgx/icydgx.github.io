@@ -37,7 +37,7 @@ If you numbers is too many like telephone numbers. I advice to you use the 9 num
 
 Type `~!@#$%^&\*()-_=+ Backspace or numbers little not too much.
 
--   LR for !~`@12
+-   LR for !~`@2
 -   LM for #3
 -   LI for $%^456
 -   RI for &*78
@@ -46,6 +46,7 @@ Type `~!@#$%^&\*()-_=+ Backspace or numbers little not too much.
 
 Why doing this? Because you not move your hands when type.
 
+Why not use the LR for type the 1. Because it's very rarely to type the one the number And against the muscle memory to LP to type the 1.
 
 
 
